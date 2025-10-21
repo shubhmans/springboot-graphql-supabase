@@ -24,4 +24,9 @@ public class ProductController {
     public List<Product> getProductsByCategory(@Argument String category) {
         return productService.getProductByCategory(category);
     }
+
+    @QueryMapping
+    public List<Product> getProductsByPriceRange(@Argument double minPrice, @Argument double maxPrice) {
+        return productService.getProductsByPriceRange(minPrice, maxPrice);
+    }
 }

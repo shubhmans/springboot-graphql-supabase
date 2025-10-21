@@ -29,6 +29,7 @@ Please note — this is **not a complete client project**, and all sensitive or 
 - Configured Supabase as the database layer
 - Created mock APIs simulating e-commerce operations (products, users, orders, etc.)
 - Established reusable structure for controllers, services, and repositories
+- Done error handling following best practices
 - Demonstrated standardized coding and configuration practices used across StreamlineIdeas projects
 
 ---
@@ -50,6 +51,10 @@ Our core expertise includes:
 
 📩 **Email:** streamline.ideaz@gmail.com  
 🔗 **LinkedIn:** [StreamlineIdeas](https://www.linkedin.com/company/streamlineideas/)
+
+---
+
+**Developed by Shubham Shah under StreamlineIdeas as part of internal R&D portfolio.**
 
 ---
 
